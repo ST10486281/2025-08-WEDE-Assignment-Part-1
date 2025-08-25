@@ -15,11 +15,13 @@ This project aim to deliver a responsive website for take-away chain Tadka. It a
 
 ### Company Overview
 
-Tadka is an India takeaway food chain that specialises in delicious takeaway and sitdown options. They have 2 outlets 1 in Claremont and the other in Rondebosch.
+Tadka is an India takeaway food chain that specialises in delicious takeaway and sitdown options. They have 2 outlets 1 in Claremont and the other in Rondebosch. Their goal is to provide quality and authentic Indian food to customers. Their target audience is customers in Claremont, Rondebosch and surrounds.
 
 ### Goals
 
 Tadka is an Indian takeaway food chain that has outlets in multiple locations in Cape Town. They need a website to communicate their food and drink options for customers who want to place an order. They also need the ability to make booking. Since they have different outlets that each may have slightly different menu options they need to be able to show that. They also want to give a sense of what their existing customers think of them to attract new customers.
+
+Their goals in creating this website are to strengthen their brand identity and increase bookings and customer traction at their outlets. KPIs for this project are the increase in the number of bookings obtained through dineplan.
 
 ## Key Website Features and Functionality
 
