@@ -335,7 +335,7 @@ This timeline assumes a flexible part-time pace, where each working day includes
 
 ## Sitemap
 
-![](assets/sitemap.png)
+![](sitemap.png)
 
 ## Changelog
 
