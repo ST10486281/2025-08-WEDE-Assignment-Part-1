@@ -13,8 +13,8 @@
 
   <body>
     <!-- Header -->
-    <div>
-      <img style="width:400px;" src="assets/header-and-footer/logo.png" /> 
+    <header>
+      <img style="width:400px;" src="images/header-and-footer/logo.png" /> 
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="rondebosch.html">Rondebosch Menu</a></li>
@@ -23,17 +23,18 @@
         <li><a href="about.html">About</a></li>
       </ul>
       <a href="https://www.dineplan.com/" target="_blank"> Book Now </a>
-    </div>
+    </header>
     
     <!-- Hero -->
     <div>
-      <img style="width:500px;" src="assets/contact/hero.jpg"  style="width:100%;"/> 
+      <img style="width:500px;" src="images/contact/hero.jpg"  style="width:100%;"/> 
       <h1>Contact</h1>
       <p>We look forward to hearing from you!</p>
     </div>
 
     <!-- Body text -->
-    <div>
+    <main>
+        <!-- Contacts -->
         <div>
           <h4>Claremont Contact</h4>
           <p>214 Main Road, Claremont,<br />Cape Town, 7800</p>
@@ -48,44 +49,47 @@
           <p>WhatsApp Order: 064 412 2722</p>
           <p>Email: <a href="mailto:tadkarondebosch@gmail.com">tadkarondebosch@gmail.com</a></p>
         </div>
+        <!-- Trading hours -->
         <div>
           <h4>Trading Hours</h4>
           <p>Mon-Fri: 11am - 9pm</p>
           <p>Sat: 11am - 9pm</p>
           <p>Sun: 11am - 9pm</p>
         </div>
-    </div>
 
-    <h2>Contact Form</h2>
-    <form>
-      <div>
-        <label>Full Name</label> 
-        <input required type="text" />
-      </div>
-      <div>
-        <label>Email address</label> 
-        <input required type="email" />
-      </div>
-      <div>
-          <label>Outlet</label>
-          <select required>
-            <option value="">Choose...</option>
-            <option value="Claremont">Claremont</option>
-            <option value="Rondebosch">Rondebosch</option>
-          </select>
-      </div>
-      <div>
-        <label>Message</label>
-        <textarea required></textarea>
-      </div>
-      <button type="submit">Submit</button>
-    </form>
+        
+        <!-- Contact Form -->
+        <h2>Contact Form</h2>
+        <form>
+          <div>
+            <label>Full Name</label> 
+            <input required type="text" />
+          </div>
+          <div>
+            <label>Email address</label> 
+            <input required type="email" />
+          </div>
+          <div>
+              <label>Outlet</label>
+              <select required>
+                <option value="">Choose...</option>
+                <option value="Claremont">Claremont</option>
+                <option value="Rondebosch">Rondebosch</option>
+              </select>
+          </div>
+          <div>
+            <label>Message</label>
+            <textarea required></textarea>
+          </div>
+          <button type="submit">Submit</button>
+        </form>
+    </main>
     
     
     <!-- Footer -->
-    <div>
+    <footer>
         &copy; 2025 Tadka Take-Away
-    </div>
+    </footer>
 
   </body>
 </html>
