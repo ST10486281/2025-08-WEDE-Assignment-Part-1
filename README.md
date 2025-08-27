@@ -359,8 +359,15 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 
 ## Changelog
 
-- 2025-08-25: Added Readme
-- 
+ 
+- 2025/08/25 – Start repo with readme.md
+- 2025/08/25 – Added home, rondebosch and claremont pages
+- 2025/08/26 – Create about and contact pages
+- 2025/08/26 – Reroganized folder and added research content folder
+- 2025/08/26 - Added hero images and improved file paths
+- 2025/08/26 – Populated menu item sections
+- 2025/08/27 – Added comments
+- 2025/08/27 – Added js and css folders
 
 
 
