@@ -3,9 +3,9 @@
 
 ## Student Info
 
-Name: Ivan Copeland
-Student Number: ST10486281
-Course Code: HMAW0501
+- Name: Ivan Copeland
+- Student Number: ST10486281
+- Course Code: HMAW0501
 
 ## Project Overview
 
