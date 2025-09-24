@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <title>Tadka Take-Away</title>
+      <!-- Custom stripped-down Bootstrap CSS -->
+      <link rel="stylesheet" href="css/style.css" />
+   </head>
+   <body class=" min-vh-100">
+      <!-- Header / Navbar -->
+      <header class="border-bottom bg-white py-3">
+         <div class="container align-items-center d-flex justify-content-between row">
+            <!-- Logo -->
+            <div class="col-12 col-md-auto text-center">
+              
+                  <a href="index.html" class="d-inline-block">
+                  <img src="images/header-and-footer/logo.png" alt="Tadka Logo" style="height:48px;">
+                  </a>
+            </div>
+            <!-- Nav links -->
+            <div class="col-12 col-md-auto text-right  ">
+               <div class="row justify-content-center align-items-center">
+
+                  <a href="styled-index.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover">Home</a>
+                  <a href="styled-rondebosch.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover">Rondebosch Menu</a>
+                  <a href="styled-claremont.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover">Claremont Menu</a>
+                  <a href="#" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover">Contact</a>
+                  <a href="#" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover">About</a>
+                  <a href="https://www.dineplan.com/" target="_blank" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover">Book Now</a>
+               </div>
+            </div>
+         </div>
+      </header>
+      <!-- Hero with background image -->
+      <section class="text-white text-center d-flex align-items-center"
+         style="background:url('images/home/home-page-hero.jpg') center/cover no-repeat; min-height:60vh;">
+         <div class="container py-5">
+            <h1 class="display-3 fw-bold mb-3">Tadka Take-Away</h1>
+            <p class="h3">Indian Authentic Cuisine, Fine Dine &amp; take-away, with fully licensed bar</p>
+         </div>
+      </section>
+      <!-- Main content -->
+      <main class="flex-grow-1 py-5">
+         <div class="container">
+            <!-- Menu Links -->
+            <div class="row my-5">
+               <div class="col-12 col-md-6 mb-3">
+                  <a href="rondebosch.html" class="text-decoration-none link-primary">
+                     <div class="p-4">
+                        <div class="p-5 bg-light text-center border rounded">
+                           <h2>See Rondebosch Menu</h2>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+               <div class="col-12 col-md-6 mb-3">
+                  <a href="claremont.html" class="text-decoration-none link-primary">
+                     <div class="p-4">
+                        <div class="p-5 bg-light text-center border rounded">
+                           <h2>See Claremont Menu</h2>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <!-- Contact Form -->
+            <form id="contactForm">
+               <div class="mb-3">
+                  <label for="name" class="form-label">Full Name</label>
+                  <input type="text" class="form-control" id="name" required>
+               </div>
+               <div class="mb-3">
+                  <label for="email" class="form-label">Email address</label>
+                  <input type="email" class="form-control" id="email" required>
+               </div>
+               <div class="mb-3">
+                  <label for="outlet" class="form-label">Outlet</label>
+                  <select class="form-select" id="outlet" required>
+                     <option value="">Choose...</option>
+                     <option value="Claremont">Claremont</option>
+                     <option value="Rondebosch">Rondebosch</option>
+                  </select>
+               </div>
+               <div class="mb-3">
+                  <label for="message" class="form-label">Message</label>
+                  <textarea class="form-control" id="message" rows="3" required></textarea>
+               </div>
+               <button type="submit" class="btn bg-blue text-white">Submit</button>
+            </form>
+         </div>
+      </main>
+      <!-- Footer -->
+      <footer class="bg-light py-5 border-top mt-auto">
+         <div class="container row">
+            <!-- Branding -->
+            <div class="col-12 col-md-3 mb-3">
+               <small class="text-gray">© 2025 Tadka Take-Away</small>
+            </div>
+            <!-- Claremont -->
+            <div class="col-12 col-md-3 mb-3">
+               <h6>Claremont Contact</h6>
+               <p class="mb-1">214 Main Road, Claremont,<br>Cape Town, 7800</p>
+               <p class="mb-1"><strong>Call:</strong> 021 672 0640</p>
+               <p class="mb-1"><strong>WhatsApp:</strong> 064 282 8280</p>
+               <p class="mb-1"><strong>Email:</strong> 
+                  <a href="mailto:tadkacapetown@gmail.com">tadkacapetown@gmail.com</a>
+               </p>
+            </div>
+            <!-- Rondebosch -->
+            <div class="col-12 col-md-3 mb-3">
+               <h6>Rondebosch Contact</h6>
+               <p class="mb-1">19 Station Road, Rondebosch,<br>Cape Town, 7700</p>
+               <p class="mb-1"><strong>Call:</strong> 021 685 0370</p>
+               <p class="mb-1"><strong>WhatsApp:</strong> 064 412 2722</p>
+               <p class="mb-1"><strong>Email:</strong> 
+                  <a href="mailto:tadkarondebosch@gmail.com">tadkarondebosch@gmail.com</a>
+               </p>
+            </div>
+            <!-- Trading Hours -->
+            <div class="col-12 col-md-3 mb-3">
+               <h6>Trading Hours</h6>
+               <p class="mb-1">Mon–Fri: 11am – 9pm</p>
+               <p class="mb-1">Sat: 11am – 9pm</p>
+               <p class="mb-1">Sun: 11am – 9pm</p>
+            </div>
+         </div>
+      </footer>
+   </body>
+</html>
