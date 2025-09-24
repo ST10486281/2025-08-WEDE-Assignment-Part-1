@@ -48,7 +48,7 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {
 }
 
 .no-wrap {white-space: nowrap;}
-        
+       
 
 .link-primary {color:rgba(13, 110, 253,1);text-decoration:underline}
 .link-primary:focus,
@@ -147,7 +147,11 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {
 
 /* layout spacing styles */ 
 
-
+.w-25{width:25% !important}
+.w-50{width:50% !important}
+.w-75{width:75% !important}
+.w-100{width:100% !important}
+.w-auto{width:auto !important}
 
 .d-inline{display:inline !important}
 .d-inline-block{display:inline-block !important}
