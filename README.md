@@ -368,6 +368,15 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 - 2025/08/26 – Populated menu item sections
 - 2025/08/27 – Added comments
 - 2025/08/27 – Added js and css folders
+- 2025/09/23 – Initial format of home page code
+- 2025/09/24 – Created stylesheet with tonnes of functionality off the shelf
+- 2025/09/24 – Applied useful classes to style all pages in the realms of typography, layout and decoration
+- 2025/09/24 – Made some layout imporvements and added dot seperators in menu sections
+- 2025/09/24 – Made main nav responsive
+- 2025/09/25 – Made image loading responsive
+- 2025/09/25 – Made font base size responsive
+- 2025/09/25 – Addressed content research feedback to by improving about us page content 
+- 2025/09/25 – Address sitemap feedback by adding external link block
 
 
 
