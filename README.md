@@ -386,27 +386,31 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 
 ## References
 
-1.  A.npn, S.B. (2024). Your website is more than just an online brochure. It’s the cornerstone of your brand and the primary platform for engaging with potential customers. [online] Linkedin.com. Available at: [https://www.linkedin.com/pulse/how-align-your-business-goals-website-steve-bambury-ff8tc](https://www.linkedin.com/pulse/how-align-your-business-goals-website-steve-bambury-ff8tc)   [Accessed 19 Aug. 2025].
-2.  Aeolidia.com. (2025). Blocked. [online] Available at: [https://aeolidia.com/choosing-fonts-and-colors-for-your-brand](https://aeolidia.com/choosing-fonts-and-colors-for-your-brand) /  [Accessed 19 Aug. 2025]
-3.  August 22, R.M., February 4th, 2019, up, 2021 S. and Free →, I. (2019). Building a Brand Guide: Choosing Fonts and Colors. [online] Planable. Available at: [https://planable.io/blog/brand-guide-font-colors](https://planable.io/blog/brand-guide-font-colors) / .
-4.  Bose, S. (2023). 7 Core Elements for a Modern Web Design. [online] BrowserStack. Available at: [https://www.browserstack.com/guide/elements-of-modern-web-design](https://www.browserstack.com/guide/elements-of-modern-web-design)  .
-5.  Captivation Agency. (2022). User Experience Design: How Colors, Shapes, And Fonts Impact And Affect Your Branding · Video Production & Web Design/Development Agency | Captivation Agency | Sarasota, FL. [online] Available at: [https://captivation.agency/insights/experience-design-how-colors-shapes-and-fonts-impact-and-affect-your-branding.html](https://captivation.agency/insights/experience-design-how-colors-shapes-and-fonts-impact-and-affect-your-branding.html)  .
-6.  example.com. (n.d.). Example Domain. [online] Available at: [http://example.com/](http://example.com/) .
-7.  Mary (2023). What’s a website timeline? How to build one (w/ free template) - Markup.io. [online] Markup.io. Available at: [https://www.markup.io/blog/website-timeline/](https://www.markup.io/blog/website-timeline/)   [Accessed 19 Aug. 2025].
-8.  OneNine. (2025). Website Project Plan Template: Your Ultimate Guide - OneNine. [online] Available at: [https://onenine.com/website-project-plan-template](https://onenine.com/website-project-plan-template)   [Accessed 19 Aug. 2025].
-9.  Pexels.com. (2017a). Available at: [https://www.pexels.com/photo/close-up-of-menu-313700/](https://www.pexels.com/photo/close-up-of-menu-313700/)  [Accessed 27 Aug. 2025].
-10.  Pexels.com. (2017b). Available at: [https://www.pexels.com/photo/white-receipt-on-table-612790/](https://www.pexels.com/photo/white-receipt-on-table-612790/)  [Accessed 27 Aug. 2025].
-11.  Pexels.com. (2018a). Available at: [https://www.pexels.com/photo/platter-of-foods-941869/](https://www.pexels.com/photo/platter-of-foods-941869/)  [Accessed 27 Aug. 2025].
-12.  Pexels.com. (2018b). White and Brown Cooked Dish on White Ceramic Bowls · Free Stock Photo. [online] Pexels. Available at: [https://www.pexels.com/photo/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545/](https://www.pexels.com/photo/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545/) .
-13.  Pexels.com. (2021). Available at: [https://www.pexels.com/photo/vintage-telephone-beside-the-bed-7609139/](https://www.pexels.com/photo/vintage-telephone-beside-the-bed-7609139/)  [Accessed 27 Aug. 2025].
-14.  Snowdon, F. (2024). A Beginner’s Guide to North Indian Food: What Makes It Unique | Raj’s Corner. [online] Raj’s Corner. Available at: [https://rajscorner.com.au/north-indian-food/](https://rajscorner.com.au/north-indian-food/) .
-15.  Tadka.co.za. (2021a). Available at: [http://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-2.png](http://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-2.png)  [Accessed 27 Aug. 2025].
-16.  Tadka.co.za. (2021b). Available at: [https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-1.png](https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-1.png)  [Accessed 27 Aug. 2025].
-17.  Tadka.co.za. (2021c). Available at: [https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-3.png](https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-3.png)  [Accessed 27 Aug. 2025].
-18.  Tadka.co.za. (2021d). Available at: [https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design.png](https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design.png)  [Accessed 27 Aug. 2025].
-19.  Tadka.co.za. (2021e). Main Menu – Tadka. [online] Available at: [https://tadka.co.za/index.php/main-menu](https://tadka.co.za/index.php/main-menu)  [Accessed 27 Aug. 2025].
-20.  Tadka.co.za. (2021f). Rondebosch Menu – Tadka. [online] Available at: [https://tadka.co.za/index.php/rondebosch-menu/](https://tadka.co.za/index.php/rondebosch-menu/)  [Accessed 27 Aug. 2025].
-21.  Tadka.co.za. (2025). Available at: [https://tadka.co.za/wp-content/uploads/2021/08/Tadka\_Header1-1024x304.png](https://tadka.co.za/wp-content/uploads/2021/08/Tadka_Header1-1024x304.png)  [Accessed 27 Aug. 2025].
+- A.npn, S.B. (2024). Your website is more than just an online brochure. It’s the cornerstone of your brand and the primary platform for engaging with potential customers. [online] Linkedin.com. Available at: [https://www.linkedin.com/pulse/how-align-your-business-goals-website-steve-bambury-ff8tc](https://www.linkedin.com/pulse/how-align-your-business-goals-website-steve-bambury-ff8tc)   [Accessed 19 Aug. 2025].
+- Aeolidia.com. (2025). Blocked. [online] Available at: [https://aeolidia.com/choosing-fonts-and-colors-for-your-brand](https://aeolidia.com/choosing-fonts-and-colors-for-your-brand) /  [Accessed 19 Aug. 2025]
+- August 22, R.M., February 4th, 2019, up, 2021 S. and Free →, I. (2019). Building a Brand Guide: Choosing Fonts and Colors. [online] Planable. Available at: [https://planable.io/blog/brand-guide-font-colors](https://planable.io/blog/brand-guide-font-colors) / .
+- Bootstrap (2025). Bootstrap. [online] Getbootstrap.com. Available at: https://getbootstrap.com/.
+- Bose, S. (2023). 7 Core Elements for a Modern Web Design. [online] BrowserStack. Available at: [https://www.browserstack.com/guide/elements-of-modern-web-design](https://www.browserstack.com/guide/elements-of-modern-web-design)  .
+- Captivation Agency. (2022). User Experience Design: How Colors, Shapes, And Fonts Impact And Affect Your Branding · Video Production & Web Design/Development Agency | Captivation Agency | Sarasota, FL. [online] Available at: [https://captivation.agency/insights/experience-design-how-colors-shapes-and-fonts-impact-and-affect-your-branding.html](https://captivation.agency/insights/experience-design-how-colors-shapes-and-fonts-impact-and-affect-your-branding.html)  .
+- danhere (2010). Adding a dotted line trail after menu description. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/2360830/adding-a-dotted-line-trail-after-menu-description.
+- example.com. (n.d.). Example Domain. [online] Available at: [http://example.com/](http://example.com/) .
+- Mary (2023). What’s a website timeline? How to build one (w/ free template) - Markup.io. [online] Markup.io. Available at: [https://www.markup.io/blog/website-timeline/](https://www.markup.io/blog/website-timeline/)   [Accessed 19 Aug. 2025].
+- morbusg (2010). H1-H6 font sizes in HTML. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/2325850/h1-h6-font-sizes-in-html/79773013#79773013.
+- OneNine. (2025). Website Project Plan Template: Your Ultimate Guide - OneNine. [online] Available at: [https://onenine.com/website-project-plan-template](https://onenine.com/website-project-plan-template)   [Accessed 19 Aug. 2025].
+- Pexels.com. (2017a). Available at: [https://www.pexels.com/photo/close-up-of-menu-313700/](https://www.pexels.com/photo/close-up-of-menu-313700/)  [Accessed 27 Aug. 2025].
+- Pexels.com. (2017b). Available at: [https://www.pexels.com/photo/white-receipt-on-table-612790/](https://www.pexels.com/photo/white-receipt-on-table-612790/)  [Accessed 27 Aug. 2025].
+- Pexels.com. (2018a). Available at: [https://www.pexels.com/photo/platter-of-foods-941869/](https://www.pexels.com/photo/platter-of-foods-941869/)  [Accessed 27 Aug. 2025].
+- Pexels.com. (2018b). White and Brown Cooked Dish on White Ceramic Bowls · Free Stock Photo. [online] Pexels. Available at: [https://www.pexels.com/photo/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545/](https://www.pexels.com/photo/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545/) .
+- Pexels.com. (2021). Available at: [https://www.pexels.com/photo/vintage-telephone-beside-the-bed-7609139/](https://www.pexels.com/photo/vintage-telephone-beside-the-bed-7609139/)  [Accessed 27 Aug. 2025].
+- Snowdon, F. (2024). A Beginner’s Guide to North Indian Food: What Makes It Unique | Raj’s Corner. [online] Raj’s Corner. Available at: [https://rajscorner.com.au/north-indian-food/](https://rajscorner.com.au/north-indian-food/) .
+- Tadka.co.za. (2021a). Available at: [http://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-2.png](http://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-2.png)  [Accessed 27 Aug. 2025].
+- Tadka.co.za. (2021b). Available at: [https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-1.png](https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-1.png)  [Accessed 27 Aug. 2025].
+- Tadka.co.za. (2021c). Available at: [https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-3.png](https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design-3.png)  [Accessed 27 Aug. 2025].
+- Tadka.co.za. (2021d). Available at: [https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design.png](https://tadka.co.za/wp-content/uploads/2021/08/Untitled-design.png)  [Accessed 27 Aug. 2025].
+- Tadka.co.za. (2021e). Main Menu – Tadka. [online] Available at: [https://tadka.co.za/index.php/main-menu](https://tadka.co.za/index.php/main-menu)  [Accessed 27 Aug. 2025].
+- Tadka.co.za. (2021f). Rondebosch Menu – Tadka. [online] Available at: [https://tadka.co.za/index.php/rondebosch-menu/](https://tadka.co.za/index.php/rondebosch-menu/)  [Accessed 27 Aug. 2025].
+- Tadka.co.za. (2025). Available at: [https://tadka.co.za/wp-content/uploads/2021/08/Tadka\_Header1-1024x304.png](https://tadka.co.za/wp-content/uploads/2021/08/Tadka_Header1-1024x304.png)  [Accessed 27 Aug. 2025].
+- W3schools.com. (2025). W3Schools online HTML editor. [online] Available at: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_picture [Accessed 25 Sep. 2025].
 
 ## Disclaimer
 
