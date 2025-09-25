@@ -359,7 +359,8 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 
 ## Changelog
 
- 
+### Part 1
+
 - 2025/08/25 – Start repo with readme.md
 - 2025/08/25 – Added home, rondebosch and claremont pages
 - 2025/08/26 – Create about and contact pages
@@ -368,6 +369,9 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 - 2025/08/26 – Populated menu item sections
 - 2025/08/27 – Added comments
 - 2025/08/27 – Added js and css folders
+
+### Part 2
+
 - 2025/09/23 – Initial format of home page code
 - 2025/09/24 – Created stylesheet with tonnes of functionality off the shelf
 - 2025/09/24 – Applied useful classes to style all pages in the realms of typography, layout and decoration
