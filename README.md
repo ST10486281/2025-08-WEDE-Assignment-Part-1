@@ -382,6 +382,36 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 - 2025/09/25 – Addressed content research feedback to by improving about us page content 
 - 2025/09/25 – Address sitemap feedback by adding external link block
 
+## Screenshots
+
+### Home
+
+#### Desktop
+
+![](home-desktop.png)
+
+#### Tablet
+
+![](home-tablet.png)
+
+#### Mobile
+
+![](home-mobile.png)
+
+### Contact
+
+#### Desktop
+
+![](contact-desktop.png)
+
+#### Tablet
+
+![](contact-tablet.png)
+
+#### Mobile
+
+![](contact-mobile.png)
+
 
 
 ## References
