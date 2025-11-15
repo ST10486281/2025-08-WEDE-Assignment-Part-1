@@ -1,0 +1,11 @@
+# robots.txt for Tadka Take-Away
+User-agent: *
+Allow: /
+
+# Disallow development folders
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+
+# Sitemap location
+Sitemap: https://www.tadka.co.za/sitemap.xml
