@@ -382,6 +382,41 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 - 2025/09/25 – Addressed content research feedback to by improving about us page content 
 - 2025/09/25 – Address sitemap feedback by adding external link block
 
+### Part 3
+
+2025/11/15 - Fixed contact form formatting 
+2025/11/15 - Improved accessibility
+2025/11/15 - Added map modals making the page interactive
+2025/11/15 - Added dynamic HTML sorting and filtering to both menu pages
+2025/11/15 - Added robots.txt and sitemap.xml for SEO
+2025/11/15 - Added meta description tags and keyword-filled content
+2025/11/15 - Added location-based SEO enhancements
+2025/11/15 - Added anti-spam verification (fake reCAPTCHA) 
+2025/11/18 - Added enquiry form with AJAX, validation, and reason-for-contact dropdown
+
+## Speed Considerations
+
+Since there is no CMS used and all content is statically hardcoded there is no data caching needed for optimization. However images have been optimized for the web by using good images compressions formats.
+
+## Off-Page SEO Inititiatives
+
+### Backlinks
+
+Measure we can put in place for increasing our backlinks are:
+- Encouraging partners to link our website in their sites
+- Reaching out to local relevant blogs to write about us and link our site in the articles.
+- Adding our business to google maps
+- Adding our business to relevant local directory sites including our website link in the listings.
+
+### Social Media
+
+Post and campaigns we can make on social media include:
+- Include our site link in all our social media bios (facebook/instragram)
+- Make regular posts showcasing additions to our menu etc
+- Create incentive for customers to tag us in their relevant social media posts if they make posts about events that maybe used our catering etc
+- When we make posts we must include relevant and location based hashtags to encourage natural relevant views
+
+
 ## Screenshots
 
 ### Home
