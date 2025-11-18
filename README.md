@@ -393,6 +393,7 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 2025/11/15 - Added location-based SEO enhancements
 2025/11/15 - Added anti-spam verification (fake reCAPTCHA) 
 2025/11/18 - Added enquiry form with AJAX, validation, and reason-for-contact dropdown
+2025/11/18 - Updated changelog, added speed considerations and off-page seo measure to readme
 
 ## Speed Considerations
 
