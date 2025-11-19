@@ -395,6 +395,7 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 - 2025/11/18 - Added enquiry form with AJAX, validation, and reason-for-contact dropdown
 - 2025/11/18 - Updated changelog, added speed considerations and off-page seo measure to readme
 - 2025/11/19 - Moved enquiry to it's own page
+- 2025/11/19 - Updated screenshots in readme
 
 ## Speed Considerations
 
