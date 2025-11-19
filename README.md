@@ -4,6 +4,8 @@
 - Student Number: ST10486281
 - Course Code: HMAW0501
 
+---
+
 * [Project Overview](#project-overview)
 * [Goals and Objectives](#goals-and-objectives)
    + [Company Overview](#company-overview)
