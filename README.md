@@ -385,7 +385,7 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 ### Part 3
 
 2025/11/15 - Fixed contact form formatting 
-2025/11/15 - Improved accessibility
+2025/11/15 - Addressed feedback by improving accessibility
 2025/11/15 - Added map modals making the page interactive
 2025/11/15 - Added dynamic HTML sorting and filtering to both menu pages
 2025/11/15 - Added robots.txt and sitemap.xml for SEO
@@ -394,6 +394,7 @@ Please see content in the "Content Research and Sourcing.zip". And see below for
 2025/11/15 - Added anti-spam verification (fake reCAPTCHA) 
 2025/11/18 - Added enquiry form with AJAX, validation, and reason-for-contact dropdown
 2025/11/18 - Updated changelog, added speed considerations and off-page seo measure to readme
+2025/11/19 - Moved enquiry to it's own page
 
 ## Speed Considerations
 
