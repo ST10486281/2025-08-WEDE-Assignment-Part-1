@@ -54,7 +54,7 @@
                   <a href="claremont.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Claremont Menu">Claremont Menu</a>
                   <a href="contact.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Contact">Contact</a>
                   <a href="about.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="About">About</a>
-                  <a href="https://www.dineplan.com/" target="_blank" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Book Now">Book Now</a>
+                  <a href="enquiry.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Enquire">Enquire</a>
                </div>
             </div>
          </div>
@@ -130,131 +130,61 @@
                   <p class="mb-1">Sun: 11am - 9pm</p>
                </div>
             </div>
-            <div class="row">
-               <div class="col-12 col-md-6 p-4">
+            
+
+            
                   
-                  <!-- Contact Form -->
-                  <h2>Contact Us</h2>
-                  <h3 style="font-size:1.25rem; font-weight:500; color:#555; margin-bottom:1.5rem;">
-                     Contact Us With Queries or Feedback
-                  </h3>
+            <!-- Contact Form -->
+            <h2>Contact Us</h2>
+            <h3 style="font-size:1.25rem; font-weight:500; color:#555; margin-bottom:1.5rem;">
+               Contact Us With Queries or Feedback
+            </h3>
 
-                  <form id="contactForm">
-                     <div class="mb-3">
-                        <label for="name" class="form-label">Full Name</label>
-                        <input type="text" class="form-control" id="name" required>
-                     </div>
-                     <div class="mb-3">
-                        <label for="email" class="form-label">Email address</label>
-                        <input type="email" class="form-control" id="email" required>
-                     </div>
-                     
-
-                     <div class="mb-3">
-                        <label for="reasonContact" class="form-label">Reason for Contact</label>
-                        <select id="reasonContact" required style="width:100%; padding:0.5rem; border:1px solid #ccc; border-radius:4px; font-size:1rem;">
-                           <option value="">Choose...</option>
-                           <option value="General Query">General Query</option>
-                           <option value="Feedback">Feedback</option>
-                           <option value="Complaint">Complaint</option>
-                           <option value="Other">Other</option>
-                        </select>
-                     </div>
-                     
-                     <div class="mb-3">
-                        <label for="outlet" class="form-label">Outlet</label>
-                        <select class="form-select" id="outlet" required>
-                           <option value="">Choose...</option>
-                           <option value="Claremont">Claremont</option>
-                           <option value="Rondebosch">Rondebosch</option>
-                        </select>
-                     </div>
-
-                     <div class="mb-3">
-                        <label for="message" class="form-label">Message</label>
-                        <textarea class="form-control" id="message" rows="3" required></textarea>
-                     </div>
-                     <div class="mb-3">
-                        <img 
-                           src="images/contact/recaptcha.png" 
-                           alt="Fake reCAPTCHA verification placeholder" 
-                           width="256" 
-                           style="width:256px; max-width:100%; box-shadow:0 4px 8px rgba(0,0,0,0.25); border-radius:0;"
-                        >
-                     </div>
-                     <button type="submit" class="btn bg-blue text-white">Submit</button>
-                  </form>
+            <form id="contactForm">
+               <div class="mb-3">
+                  <label for="name" class="form-label">Full Name</label>
+                  <input type="text" class="form-control" id="name" required>
                </div>
-               <div class="col-12 col-md-6 p-4">
-                  
-                  <!-- Enquiry Form -->
-                  <h2 class="">Enquire</h2>
-                  <h3 style="font-size:1.25rem; font-weight:500; color:#555; margin-bottom:1.5rem;">
-                     Enquire About Catering or Bookings
-                  </h3>
-                  <p>For table bookings, catering, or special events, please fill in the form below. Our team will get back to you with costs and availability.</p>
-
-                  <form id="enquiryForm">
-                     <div class="mb-3">
-                        <label for="enquiryName" class="form-label">Full Name</label>
-                        <input type="text" class="form-control" id="enquiryName" required>
-                     </div>
-
-                     <div class="mb-3">
-                        <label for="enquiryEmail" class="form-label">Email Address</label>
-                        <input type="email" class="form-control" id="enquiryEmail" required>
-                     </div>
-
-                     <div class="mb-3">
-                        <label for="enquiryPhone" class="form-label">Phone Number</label>
-                        <input type="tel" class="form-control" id="enquiryPhone" required>
-                     </div>
-
-                     <div class="mb-3">
-                        <label for="enquiryReason" class="form-label">Reason for Enquiry</label>
-                        <select class="form-select" id="enquiryReason" required>
-                           <option value="">Choose...</option>
-                           <option value="Booking">Booking or Reservation</option>
-                           <option value="Catering">Catering Request</option>
-                           <option value="Events">Private Event / Function</option>
-                           <option value="Other">Other</option>
-                        </select>
-                     </div>
-
-                     <div class="mb-3">
-                        <label for="enquiryMessage" class="form-label">Message (Include date/time & number of guests if relevant)</label>
-                        <textarea class="form-control" id="enquiryMessage" rows="3" required></textarea>
-                     </div>
-
-                     <div class="mb-3 text-muted small">
-                        <p>Average cost per person: R150-R250 depending on menu selection.<br>
-                        Venue availability: 11am-9pm daily, subject to booking confirmation.</p>
-                     </div>
-
-                     <div class="mb-3 ">
-                        <img 
-                           src="images/contact/recaptcha.png" 
-                           alt="Fake reCAPTCHA verification placeholder" 
-                           width="256"
-                           style="width:256px; max-width:100%; box-shadow:0 4px 8px rgba(0,0,0,0.25); border-radius:0;"
-                        >
-                     </div>
-
-                     <button type="submit" class="btn bg-blue text-white">Submit Enquiry</button>
-                  </form>
-
-                  <script>
-                  // Simple example of validation + fake AJAX feedback
-                  $(function () {
-                  $("form").on("submit", function (e) {
-                     e.preventDefault();
-                     const formId = $(this).attr("id");
-                     alert("Thank you! Your " + (formId === "contactForm" ? "message" : "enquiry") + " has been received.");
-                  });
-                  });
-                  </script>
+               <div class="mb-3">
+                  <label for="email" class="form-label">Email address</label>
+                  <input type="email" class="form-control" id="email" required>
                </div>
-            </div>
+               
+
+               <div class="mb-3">
+                  <label for="reasonContact" class="form-label">Reason for Contact</label>
+                  <select id="reasonContact" required style="width:100%; padding:0.5rem; border:1px solid #ccc; border-radius:4px; font-size:1rem;">
+                     <option value="">Choose...</option>
+                     <option value="General Query">General Query</option>
+                     <option value="Feedback">Feedback</option>
+                     <option value="Complaint">Complaint</option>
+                     <option value="Other">Other</option>
+                  </select>
+               </div>
+               
+               <div class="mb-3">
+                  <label for="outlet" class="form-label">Outlet</label>
+                  <select class="form-select" id="outlet" required>
+                     <option value="">Choose...</option>
+                     <option value="Claremont">Claremont</option>
+                     <option value="Rondebosch">Rondebosch</option>
+                  </select>
+               </div>
+
+               <div class="mb-3">
+                  <label for="message" class="form-label">Message</label>
+                  <textarea class="form-control" id="message" rows="3" required></textarea>
+               </div>
+               <div class="mb-3">
+                  <img 
+                     src="images/contact/recaptcha.png" 
+                     alt="Fake reCAPTCHA verification placeholder" 
+                     width="256" 
+                     style="width:256px; max-width:100%; box-shadow:0 4px 8px rgba(0,0,0,0.25); border-radius:0;"
+                  >
+               </div>
+               <button type="submit" class="btn bg-blue text-white">Submit</button>
+            </form>
 
 
 

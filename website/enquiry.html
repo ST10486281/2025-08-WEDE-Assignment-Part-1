@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <title>Contact</title>
+      <meta name="description" content="We look forward to hearing from you!" />
+      <!-- Custom stripped-down Bootstrap CSS -->
+      <link rel="stylesheet" href="css/style.css" />
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+   </head>
+   <body class=" min-vh-100">
+      <!-- Header / Navbar -->
+      <header class="border-bottom bg-white py-3">
+         <div class="container align-items-center d-flex justify-content-between row">
+            <!-- Logo -->
+            <div class="col-12 col-md-auto text-center">
+               <a href="index.html" class="d-inline-block">
+               <img src="images/header-and-footer/logo.png" alt="Tadka Logo" style="height:48px;">
+               </a>
+            </div>
+            <!-- Nav links -->
+            <div class="col-12 col-md-auto text-right  ">
+               <div class="row justify-content-center align-items-center">
+
+                  <a href="index.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Home">Home</a>
+                  <a href="rondebosch.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Rondebosch Menu">Rondebosch Menu</a>
+                  <a href="claremont.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Claremont Menu">Claremont Menu</a>
+                  <a href="contact.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Contact">Contact</a>
+                  <a href="about.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="About">About</a>
+                  <a href="enquiry.html" class="col-auto mx-2 text-decoration-none text-gray-600 link-opacity-50-hover" aria-label="Enquire">Enquire</a>
+               </div>
+            </div>
+         </div>
+      </header>
+      <!-- Hero with background image -->
+      <section class="text-white text-center d-flex align-items-center"
+         style="background:url('images/contact/hero.jpg') center/cover no-repeat; min-height:500px;">
+         <div class="container py-5">
+            <h1 class="display-3 fw-bold mb-3">Enquire</h1>
+            <p class="h3">Enquire About Catering or Bookings</p>
+         </div>
+      </section>
+      <!-- Main content -->
+      <main class="flex-grow-1 py-5">
+         <div class="container">
+                  
+            <!-- Enquiry Form -->
+            <h2 class="">Enquiry Form</h2>
+            <p>For table bookings, catering, or special events, please fill in the form below. Our team will get back to you with costs and availability.</p>
+
+            <form id="enquiryForm">
+               <div class="mb-3">
+                  <label for="enquiryName" class="form-label">Full Name</label>
+                  <input type="text" class="form-control" id="enquiryName" required>
+               </div>
+
+               <div class="mb-3">
+                  <label for="enquiryEmail" class="form-label">Email Address</label>
+                  <input type="email" class="form-control" id="enquiryEmail" required>
+               </div>
+
+               <div class="mb-3">
+                  <label for="enquiryPhone" class="form-label">Phone Number</label>
+                  <input type="tel" class="form-control" id="enquiryPhone" required>
+               </div>
+
+               <div class="mb-3">
+                  <label for="enquiryReason" class="form-label">Reason for Enquiry</label>
+                  <select class="form-select" id="enquiryReason" required>
+                     <option value="">Choose...</option>
+                     <option value="Booking">Booking or Reservation</option>
+                     <option value="Catering">Catering Request</option>
+                     <option value="Events">Private Event / Function</option>
+                     <option value="Other">Other</option>
+                  </select>
+               </div>
+
+               <div class="mb-3">
+                  <label for="enquiryMessage" class="form-label">Message (Include date/time & number of guests if relevant)</label>
+                  <textarea class="form-control" id="enquiryMessage" rows="3" required></textarea>
+               </div>
+
+               <div class="mb-3 text-muted small">
+                  <p>Average cost per person: R150-R250 depending on menu selection.<br>
+                  Venue availability: 11am-9pm daily, subject to booking confirmation.</p>
+               </div>
+
+               <div class="mb-3 ">
+                  <img 
+                     src="images/contact/recaptcha.png" 
+                     alt="Fake reCAPTCHA verification placeholder" 
+                     width="256"
+                     style="width:256px; max-width:100%; box-shadow:0 4px 8px rgba(0,0,0,0.25); border-radius:0;"
+                  >
+               </div>
+
+               <button type="submit" class="btn bg-blue text-white">Submit Enquiry</button>
+            </form>
+
+            <script>
+            // Simple example of validation + fake AJAX feedback
+            $(function () {
+            $("form").on("submit", function (e) {
+               e.preventDefault();
+               const formId = $(this).attr("id");
+               alert("Thank you! Your " + (formId === "contactForm" ? "message" : "enquiry") + " has been received.");
+            });
+            });
+            </script>
+
+
+
+
+         </div>
+      </main>
+      <!-- Footer -->
+      <footer class="bg-light py-5 border-top mt-auto">
+         <div class="container text-center">
+            <small class="text-gray">© 2025 Tadka Take-Away</small>
+         </div>
+      </footer>
+   </body>
+</html>
